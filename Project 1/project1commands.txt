@@ -105,4 +105,18 @@ rm: 1: is a directory
 (base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ rm -r project1commands.txt
 (base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ cd Project\ 1/
 (base) wifi-10-41-129-83:Project 1 mohammedmohammed$ touch project1commands.txt
-(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ vim project1commands.txt
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ vim project1commands.txt(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ git add project1commands.txt 
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ git commit -m "Uploaded my text file" 
+[main 3d76a07] Uploaded my text file
+ 1 file changed, 108 insertions(+)
+ create mode 100644 Project 1/project1commands.txt
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 11 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 1.21 KiB | 1.21 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/mxhammedbellx/Computational-Social-Science-Projects.git
+   07c24c8..3d76a07  main -> main
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$
