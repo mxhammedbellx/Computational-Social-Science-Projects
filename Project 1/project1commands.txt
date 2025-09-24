@@ -1,0 +1,108 @@
+Last login: Tue Sep 23 09:17:25 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) wifi-10-41-129-83:~ mohammedmohammed$ ls
+Africa
+anaconda_projects
+Applications
+Calibre Library
+Career 
+cest importantè
+coh1.docx
+Computational-Social-Science-Training-Program
+Creative Cloud Files (archived) (1)
+Creative Cloud Files Company Account University of California Berkeley mohammedbello@berkeley.edu 09661FCF66BD7C020A495FE6@845d757462d42564495fb4.e
+CSS 2 
+Data visualization 
+Desktop
+Documents
+Downloads
+Dropbox
+Editing
+Edits
+GSI 
+GSPP Y1
+GSPP Y2
+Images
+Library
+Masters Applications
+Movies
+Music
+my_first_repo
+newfile.txt
+OneDrive - apps.losrios.edu
+penguin-plot.png
+Pictures
+PP240A project.R
+Public
+RStudio.app
+Sites
+social_pressure.dta
+social_pressure.xlsx
+testdir
+Untitled Folder
+Zotero
+(base) wifi-10-41-129-83:~ mohammedmohammed$ git clone https://github.com/mxhammedbellx/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) wifi-10-41-129-83:~ mohammedmohammed$ ls
+Africa
+anaconda_projects
+Applications
+Calibre Library
+Career 
+cest importantè
+coh1.docx
+Computational-Social-Science-Projects
+Computational-Social-Science-Training-Program
+Creative Cloud Files (archived) (1)
+Creative Cloud Files Company Account University of California Berkeley mohammedbello@berkeley.edu 09661FCF66BD7C020A495FE6@845d757462d42564495fb4.e
+CSS 2 
+Data visualization 
+Desktop
+Documents
+Downloads
+Dropbox
+Editing
+Edits
+GSI 
+GSPP Y1
+GSPP Y2
+Images
+Library
+Masters Applications
+Movies
+Music
+my_first_repo
+newfile.txt
+OneDrive - apps.losrios.edu
+penguin-plot.png
+Pictures
+PP240A project.R
+Public
+RStudio.app
+Sites
+social_pressure.dta
+social_pressure.xlsx
+testdir
+Untitled Folder
+Zotero
+(base) wifi-10-41-129-83:~ mohammedmohammed$ cd Computational-Social-Science-Projects/
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ mkdir Project 1
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ ls
+1		Project		README.md
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ touch project1commands.txt
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ ls
+1			Project			project1commands.txt	README.md
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ rm 1
+rm: 1: is a directory
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ rm -r 1
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ rm -r project1commands.txt
+(base) wifi-10-41-129-83:Computational-Social-Science-Projects mohammedmohammed$ cd Project\ 1/
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ touch project1commands.txt
+(base) wifi-10-41-129-83:Project 1 mohammedmohammed$ vim project1commands.txt
